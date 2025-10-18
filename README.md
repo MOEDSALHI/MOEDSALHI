@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **MOEDSALHI/MOEDSALHI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## 🧑‍💻 **MOHAMED SALHI**
 
-**Ingénieur Fullstack Python | Backend Senior | Python / Django / FastAPI Expert**  
+**Ingénieur Fullstack Python | Backend Senior | Python / Django / FastAPI**  
 📍 Rueil-Malmaison, France  
 📧 [salhi.mohamed.sd@gmail.com](mailto:salhi.mohamed.sd@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-salhi) | [Portfolio](https://github.com/MOEDSALHI)

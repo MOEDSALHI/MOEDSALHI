@@ -106,6 +106,6 @@ I focus on **building maintainable and testable systems**, following **clean cod
 
 ### 💬 **Let’s Connect**
 📧 [salhi.mohamed.sd@gmail.com](mailto:salhi.mohamed.sd@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamed-salhi)  
+🔗 [LinkedIn](https://www.linkedin.com/in/salhi-m-8891817b)  
 💻 [GitHub](https://github.com/MOEDSALHI)
 

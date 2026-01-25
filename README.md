@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 **Ingénieur Fullstack Python | Backend Senior | Python / Django / FastAPI**  
 📍 Rueil-Malmaison, France  
 📧 [salhi.mohamed.sd@gmail.com](mailto:salhi.mohamed.sd@gmail.com)  
-🌐 [LinkedIn](https://www.linkedin.com/in/mohamed-salhi) | [Portfolio](https://github.com/MOEDSALHI)
+🌐 [LinkedIn](https://www.linkedin.com/in/salhi-m-8891817b) | [Portfolio](https://github.com/MOEDSALHI)
 
 ---
 

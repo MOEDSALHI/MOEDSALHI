@@ -83,12 +83,14 @@ I focus on **building maintainable and testable systems**, following **clean cod
 ### 🚀 **Highlighted Projects**
 | Project | Description | Stack |
 |----------|--------------|--------|
-| [**IBAFRAUD Controls**](https://github.com/MOEDSALHI/misp-modules) | Python modules for MISP enforcing business rules and fraud-event validation | Python, PyMISP, FastAPI |
+| [**FastAPI Document Insight API**](https://github.com/MOEDSALHI/fastapi-document-insight-api) | API for document understanding using LLM-ready backend patterns for extraction, semantic processing and future RAG integration | FastAPI, Python, LLM-ready |
+| [**Jobs Agent Python**](https://github.com/MOEDSALHI/jobs-agent-python) | Intelligent automation agent for job search, filtering and processing opportunities | Python, Automation, AI |
+| [**AI Experiments**](https://github.com/MOEDSALHI/AI) | Practical experiments around AI, LLMs and generative workflows | Python, AI, GenAI |
+| [**Hexagonal Architecture Guide**](https://github.com/MOEDSALHI/hexagonal-architecture-python) | Example of clean, testable and decoupled backend architecture | Python, DDD, Clean Architecture |
+| [**Secure Django Backend**](https://github.com/MOEDSALHI/secure-django-backend) | Production-oriented Django backend with security best practices | Django, Security, API |
 | [**TaskFastAPI**](https://github.com/MOEDSALHI/TaskFastAPI) | Asynchronous API using FastAPI + Celery + Redis | FastAPI, Celery, Redis |
-| [**Hexagonal Architecture Guide**](https://github.com/MOEDSALHI/hexagonal-architecture-python) | Example of clean, testable, decoupled architecture | Python, DDD |
-| [**Calculatrice NPI Web**](https://github.com/MOEDSALHI/calculatrice-npi-react) | Web calculator using Reverse Polish Notation (NPI) | React, FastAPI |
+| [**Exchange**](https://github.com/MOEDSALHI/Exchange) | Backend project around data exchange and service integration | Python, API |
 | [**Mypy Pre-Commit Demo**](https://github.com/MOEDSALHI/mypy-precommit-demo) | CI/CD code-quality hooks for linting and static typing | Python, MyPy, Pre-commit |
-
 ---
 
 ### 📊 **GitHub Stats**
